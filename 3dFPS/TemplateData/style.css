@@ -16,3 +16,42 @@
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
+header{
+    width: 90%;
+font-style: italic;
+text-align: center;
+background-color: black;
+color: white;
+font-size: large;
+
+}
+
+nav{
+    margin: auto;
+    text-align: center;
+    border-color: antiquewhite;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+
+}
+td{
+    border: solid, black;
+    text-align: center;
+}
+
+body{
+    /**FIguring out font sizes here and body format **/
+    background-color: whitesmoke;
+}
+
+footer{
+    
+    font-size: small;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    background-position: bottom;
+    position: relative;
+    bottom: 0;
+}
